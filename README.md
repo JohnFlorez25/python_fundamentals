@@ -21,6 +21,7 @@ Cada módulo está organizado en carpetas con ejercicios y materiales correspond
 - Sentencias `if`, `elif`, `else`.
 - Operadores relacionales y lógicos en condiciones.
 - Anidamiento de condicionales.
+- Funciones
 
 ---
 
@@ -29,7 +30,7 @@ Cada módulo está organizado en carpetas con ejercicios y materiales correspond
 - Ciclos `for` y `while`: diferencias y casos de uso.
 - Uso de `range()`.
 - Control de ciclos con `break` y `continue`.
-- 
+  
 ---
 
 ## **Módulo 4: Vectores y Matrices**
