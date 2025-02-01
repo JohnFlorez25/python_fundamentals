@@ -30,6 +30,7 @@ Cada módulo está organizado en carpetas con ejercicios y materiales correspond
 - Ciclos `for` y `while`: diferencias y casos de uso.
 - Uso de `range()`.
 - Control de ciclos con `break` y `continue`.
+- Modularización
   
 ---
 
