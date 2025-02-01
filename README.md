@@ -35,7 +35,7 @@ Cada módulo está organizado en carpetas con ejercicios y materiales correspond
 ---
 
 ## **Módulo 4: Vectores y Matrices**
-
+- Introducción a Vectores y Matrices
 - Listas: creación, acceso, modificación y métodos comunes (`append`, `remove`, `sort`).
 - Matrices: listas anidadas, acceso a elementos, iteración.
 
