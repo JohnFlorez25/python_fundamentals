@@ -54,6 +54,7 @@ Cada módulo está organizado en carpetas con ejercicios y materiales correspond
 - Conceptos básicos: clases, objetos, atributos y métodos.
 - Constructores (`__init__`).
 - Métodos de instancia.
+- Herencia
 ---
 
 ## Recursos Adicionales de Aprendizaje
